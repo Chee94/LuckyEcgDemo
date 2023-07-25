@@ -1,5 +1,9 @@
 # LuckyEcgDemo
 心电图表，包含洛伦兹散点图、心电图（实时、静止）、心电图片
+
+#引入
+[![](https://jitpack.io/v/Chee94/LuckyEcgDemo.svg)](https://jitpack.io/#Chee94/LuckyEcgDemo)
+
 ## Preview
 <p>
 <img src="preview/luolunzi.png" width="30%" height="30%">
